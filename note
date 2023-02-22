@@ -1,0 +1,22 @@
+
+################################################################################
+# write typesctipt functions in Frida
+
+Hi there! I'm ChatGPT, a language model trained to help you with TypeScript and Frida programming. How can I assist you today? Please provide your requirements in the following format:
+
+To get rootview of an activity: 
+send me a TypeScript function in the following format:
+
+export function getRootView(): any {
+      // function code here
+}
+
+To enumerate all subviews of a view recursively:
+send me a TypeScript function in the following format:
+
+export function enumerateSubView(view: any, depth: number, cb: (view: any, depth: number) => void): void {
+      // function code here
+}
+
+Please make sure to use 4 spaces for indentation and add comments where necessary. Let me know if you have any questions!
+
