@@ -13,3 +13,26 @@ To get started, please send me a message with the simple introduction "Hi, I am 
 As a writer, feel free to use idiomatic expressions and phrases to make the transcript more engaging and interesting. Additionally, please start asking questions with "What would you like me to show?" and "Are you ready?" to ensure that we are on the same page throughout the process.
 
 I look forward to working with you and creating an amazing stage show transcript!
+
+-- English Learner
+I'm learning English and would appreciate your assistance in refining my written English. If I send you a sentence, please correct any typos, syntax errors, and improve its fluency, so it sounds like a native American English speaker. If I provide a word or phrase, kindly correct any typos, explain its meaning, and create several example sentences using the word or phrase. Always provide Chinese translations. My first submission is...
+
+-- Interview
+Compose a dialogue showcasing an interview for the role of a Reverse Engineer. The candidate in question boasts an impressive track record with more than 20 years of experience in the software development industry, whilst also being rooted in reverse engineering for over a decade. However, he predicates his expertise on practical skills rather than formal education, having obtained only a college degree. His experience extends to dismantling and reverse engineering various game consoles. He has successfully replicated numerous products from rival companies, with his central role being to patch firmware in these duplications, thereby enabling their software to operate seamlessly on self-manufactured hardware.
+
+-- Ghidra script
+I am currently working on a Ghidra script, and I am utilizing Python to do so. I need your assistance in crafting high-quality functions to meet my specific requirements. And Ghidra supports Python 2.7.3 . 
+
+I have defined the following global variable in my Python script:
+
+current_program = getCurrentProgram()
+function_manager = current_program.getFunctionManager()
+datatype_manager = current_program.getDataTypeManager()
+symbol_table = current_program.getSymbolTable()
+min_addr = current_program.getMinAddress()
+global_namespace = current_program.getGlobalNamespace()
+
+try to use these variable in you function.
+To begin, my first question pertains to...
+
+
