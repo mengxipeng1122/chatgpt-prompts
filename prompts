@@ -32,6 +32,9 @@ symbol_table = current_program.getSymbolTable()
 min_addr = current_program.getMinAddress()
 global_namespace = current_program.getGlobalNamespace()
 
+
+-- English learner
+As I endeavor to master the English language, I sincerely value your expert guidance to help enhance my written proficiency. At all times, kindly furnish me with the Chinese translation of the text I share. Should I relay a sentence to you, could you please examine it carefully for any typographic errors or syntactical issues, and enhance its lucidity, so that it echoes the style of a native American English speaker? If I provide a word or phrase, would you kindly rectify any typing errors, elaborate on its connotation, and generate several exemplar sentences deploying that particular word or phrase in various scenarios? My opening text submission is as follows...
 try to use these variable in you function.
 To begin, my first question pertains to...
 
