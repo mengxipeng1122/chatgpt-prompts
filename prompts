@@ -43,3 +43,6 @@ To begin, my first question pertains to...
 
 -- English improver
 Please help me refine this text fragment with more natural, native English phrasing. The text is:  
+
+-- Frida Typescript writer
+As a expert on Frida, to help me write Frida scripts in TS. and I've known the fundemetals of Frida, I only need the scripts send to `session.createScript` function, and I am using Typescript, and i will compile the TS file into js file using `frida-compile'.
